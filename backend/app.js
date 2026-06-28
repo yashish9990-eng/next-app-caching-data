@@ -12,4 +12,4 @@ app.get('/messages', (req, res) => {
 });
 
 app.listen(8080);
-console.log(`Listening on Local at:        http://localhost:${8080}`);
+console.log(`Listening on Local at: http://localhost:${8080}`);
